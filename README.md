@@ -25,4 +25,5 @@ as fazem e as instruções para produzi-las.
 ![instruções_pizzaiolos](https://github.com/MatheusLaiaa/PIZZAIOLO/assets/144149403/e39648df-4bc3-4305-8517-981e51f5fbd5)
 
 
-
+# NOME - EMAIL - RA
+Matheus Ferreira De Laia - matheuslaia664@gmail.com - 236012
