@@ -31,6 +31,10 @@ as fazem e as instruções para produzi-las.
 
 ![instruções_pizzaiolos](https://github.com/MatheusLaiaa/PIZZAIOLO/assets/144149403/e39648df-4bc3-4305-8517-981e51f5fbd5)
 
+### MODELO LOGICO
+
+![image](https://github.com/MatheusLaiaa/PIZZAIOLO/assets/144149403/0c1fcd16-03d4-4246-85da-bcffa8a70dc4)
+
 
 
 # NOME - EMAIL - RA
