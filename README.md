@@ -1,7 +1,7 @@
 # ATIVIDADE PIZZAIOLO
 
 ## METODOLOGIA
-Essa atividade tem o objetico de aplicar conhecimento de banco de dados, utilizando o WorkBench MySql e também realizando o conceito de modelo lógico em nosso banco de dados.
+Essa atividade tem o objetivo de aplicar conhecimento de banco de dados, utilizando o WorkBench MySql e também realizando o conceito de modelo lógico em nosso banco de dados.
 
 ### NOME DO ARQUIVO
 pizzaiolo.sql
